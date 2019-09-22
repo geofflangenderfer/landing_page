@@ -44,7 +44,7 @@ function Html() {
       </ul>
       <h2 id="value-of-medium">Value of Medium</h2>
         <h4>
-          Judges get to: 
+          Organizers get to: 
         </h4>
       <ul>
         <li>promote their brand</li> 
@@ -62,7 +62,7 @@ function Html() {
       </ul>
       <h2 id="the-problem-too-costly">The Problem: Too Costly</h2>
       <h4>
-        Judges: 
+        Organizers: 
       </h4>
       <ul>
         <li>employees’ airfare/lodging/food</li> 
@@ -76,7 +76,7 @@ function Html() {
       <ul><li>commuting from our homes to downtown Austin: Philadelphia, Houston, Dallas, among others</li></ul>
       <h2 id="the-solution-minihacks">The Solution: MiniHacks</h2>
       <h4>
-        Judges can: 
+        Organizers can: 
       </h4>
       <ul><li>set up their hackathon</li> 
         <li>judge it</li> 
