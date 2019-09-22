@@ -17,13 +17,19 @@ class Subscriber extends Component {
 function Html() {
   return (
     <>
+    <br/>
+    <br/>
+    <br/>
+    <h1 style={{textAlign:"center"}}>
+    minihacks.netlify.com
+    </h1>
     <div className="landing-page">
       <div className="page-content">
         <div className="image-box">
           <img className="header-image"src={logo} alt=""/>
         </div>
         <p>Bringing the hackathon experience online</p>
-        <a href="https://minihacks.netlify.com" target="_blank" rel="noopener noreferrer">Get Started</a>
+        <a href="https://minihacksapp.netlify.com" target="_blank" rel="noopener noreferrer">Get Started</a>
 
       <div className="arrow">
         <a href="#your-hackathon-experience">&#8595;</a>
@@ -33,7 +39,7 @@ function Html() {
     <div className="presentation">
       <h2 id="your-hackathon-experience">Your Hackathon Experience</h2>
       <ul>
-        <li>Who had a good at the hackathon?</li>
+        <li>Who had a good time at the hackathon?</li>
         <li>Who feels like they got better this weekend?</li>
       </ul>
       <h2 id="value-of-medium">Value of Medium</h2>
