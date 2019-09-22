@@ -20,7 +20,7 @@ function Html() {
     <br/>
     <br/>
     <br/>
-    <h1 style={{textAlign:"center"}}>
+    <h1 style={{textAlign:"center", fontSize: "8vw"}}>
     minihacks.netlify.com
     </h1>
     <div className="landing-page">
